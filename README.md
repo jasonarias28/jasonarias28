@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasonarias28
+- 👋 Hi, I’m Jason Arias @jasonarias28
 - 🔎 I’m interested in Web development, BI and databases
 - 📚 I’m currently learning website design, Python and Oracle databases
 - 📫 You can reach out to me via e-mail jeison.2809@gmail.com
