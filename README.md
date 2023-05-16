@@ -3,6 +3,7 @@
 - 🛠 I'm currently working as a web content developer with 2 years of experience
 - 📚 I’m currently learning website design, Python and Oracle databases
 - 📫 You can reach out to me via email jeison.2809@gmail.com
+- 🌍 Check out my <a href="https://personal-portfolio-12038.web.app/" target="_blank">personal portfolio</a>
 
 <!---
 jasonarias28/jasonarias28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
