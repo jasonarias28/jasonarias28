@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jason Arias @jasonarias28
-- 🔎 I’m interested in Web development, BI and databases
-- 🛠 I'm currently working as a web content developer with 2 years of experience
-- 📚 I’m currently learning website design, backend and frontend frameworks
+- 🔎 I’m interested in web development, BI and databases
+- 💻 I have +2 years of experience working as a web developer, I also enjoy building websites on my spare time.
+- 🛠 I'm currently working as an application support specialist working with Oracle databases and Linux servers.
+- 📚 I’m constantly learning about website design, backend and frontend frameworks.
 - 📫 You can reach out to me via email jeison.2809@gmail.com
 - 🌍 Check out my <a href="https://personal-portfolio-12038.web.app/" target="_blank">personal portfolio</a>
 
